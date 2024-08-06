@@ -9,4 +9,3 @@
 - <b>Beautiful UI:</b> Enjoy a visually appealing interface crafted with Tailwind CSS, ensuring a clean, responsive, and user-friendly design.
 
 ## Screenshot
-

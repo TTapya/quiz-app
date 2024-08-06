@@ -1,53 +1,53 @@
 const quizData = [
     {
-        "question": "In which Surah of the Quran is the story of Prophet Yusuf (Joseph) mentioned?",
-        "options": ["Surah Al-Baqarah", "Surah Yusuf", "Surah Maryam", "Surah Al-Kahf"],
-        "correct": 1
+        "question": "What is the full name of Harry Potter's father?",
+        "options": ["Henry James Potter", "James Sirius Potter", "James Potter", "Harry James Potter"],
+        "correct": 2
     },
     {
-        "question": "What was the first battle fought by Muslims against the Quraysh?",
-        "options": ["Battle of Badr", "Battle of Uhud", "Battle of the Trench", "Battle of Hunayn"],
+        "question": "Which spell does Hermione use to fix Harry's broken wand in 'Harry Potter and the Deathly Hallows'?",
+        "options": ["Reparo", "Episkey", "Rennervate", "Finite Incantatem"],
         "correct": 0
     },
     {
-        "question": "Which Caliph compiled the Quran into a single book?",
-        "options": ["Abu Bakr", "Umar", "Uthman", "Ali"],
-        "correct": 2
-    },
-    {
-        "question": "In which Islamic month is the Hajj pilgrimage performed?",
-        "options": ["Ramadan", "Shawwal", "Dhul-Qi'dah", "Dhul-Hijjah"],
-        "correct": 3
-    },
-    {
-        "question": "Which Prophet is known as ‘Khalilullah’ (Friend of Allah)?",
-        "options": ["Prophet Musa", "Prophet Isa", "Prophet Ibrahim", "Prophet Nuh"],
-        "correct": 2
-    },
-    {
-        "question": "What was the name of the treaty that was signed between the Muslims and Quraysh in 628 CE?",
-        "options": ["Treaty of Hudaybiyyah", "Treaty of Aqabah", "Treaty of Khaybar", "Treaty of Hunayn"],
+        "question": "What is the name of the vault in Gringotts that contains the Philosopher's Stone?",
+        "options": ["Vault 713", "Vault 394", "Vault 687", "Vault 777"],
         "correct": 0
     },
     {
-        "question": "How many times is the name of Prophet Muhammad mentioned in the Quran?",
-        "options": ["3", "4", "5", "6"],
+        "question": "Who was the headmaster of Hogwarts before Albus Dumbledore?",
+        "options": ["Phineas Nigellus Black", "Armando Dippet", "Everard", "Dilys Derwent"],
         "correct": 1
     },
     {
-        "question": "Which angel is responsible for delivering revelation to the Prophets?",
-        "options": ["Angel Israfil", "Angel Mikail", "Angel Jibril", "Angel Malik"],
-        "correct": 2
+        "question": "What is the core of Voldemort's wand?",
+        "options": ["Phoenix feather", "Dragon heartstring", "Unicorn hair", "Thestral tail hair"],
+        "correct": 0
     },
     {
-        "question": "In which year was the Hijra (migration) from Mecca to Medina?",
-        "options": ["610 CE", "622 CE", "630 CE", "640 CE"],
+        "question": "What is the name of the house-elf who serves the Black family?",
+        "options": ["Kreacher", "Winky", "Dobby", "S.P.E.W."],
+        "correct": 0
+    },
+    {
+        "question": "Which potion allows the drinker to take on the appearance of someone else?",
+        "options": ["Felix Felicis", "Polyjuice Potion", "Amortentia", "Veritaserum"],
         "correct": 1
     },
     {
-        "question": "Which Surah of the Quran was revealed entirely in one night?",
-        "options": ["Surah Al-Fatiha", "Surah Al-Ikhlas", "Surah Al-Muzzammil", "Surah Al-Qadr"],
-        "correct": 3
+        "question": "Who was the master of the Elder Wand before Albus Dumbledore?",
+        "options": ["Gellert Grindelwald", "Harry Potter", "Tom Riddle", "Gregorovitch"],
+        "correct": 0
+    },
+    {
+        "question": "Which spell did Severus Snape create to protect the students from the Dark Arts?",
+        "options": ["Sectumsempra", "Protego", "Expelliarmus", "Legilimens"],
+        "correct": 1
+    },
+    {
+        "question": "In which magical creature’s blood is Harry’s ability to speak Parseltongue attributed?",
+        "options": ["Basilisk", "Dragons", "Hippogriffs", "Phoenix"],
+        "correct": 0
     }
 ];
 
